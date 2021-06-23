@@ -2,6 +2,8 @@
 
 Welcome to your ROSA Workshop prepared by Red Hat for EDSN!
 
+![Workshop](topology.png)
+
 ## Instructions
 
 A ROSA cluster has been created for your before hand. You can run the Lab inside this cluster with your GitHub user.
