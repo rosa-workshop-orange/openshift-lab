@@ -9,7 +9,7 @@ Welcome to your ROSA Workshop prepared by Red Hat for EDSN!
 
 ## Instructions
 
-A ROSA cluster has been created for your before hand. You can run the Lab inside this cluster with your GitHub user.
+A ROSA cluster has been created for your beforehand. You can run the Lab inside this cluster with your GitHub user.
 
 
 | User      | Lab Guide |
