@@ -2,6 +2,9 @@
 
 Welcome to your ROSA Workshop prepared by Red Hat for EDSN!
 
+
+![Guide](guide.png)
+
 ![Workshop](topology.png)
 
 ## Instructions
