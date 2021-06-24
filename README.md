@@ -14,6 +14,7 @@ A ROSA cluster has been created for your beforehand. You can run the Lab inside 
 
 | User      | Lab Guide |
 | ----------- | ----------- |
+|blues-man|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-blues-man&USERNAME=blues-man)|
 |darksideofpink|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-darksideofpink&USERNAME=darksideofpink)|
 |eddymouthaan|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-eddymouthaan&USERNAME=eddymouthaan)|
 |gillespol|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-gillespol&USERNAME=gillespol)|
