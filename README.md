@@ -15,9 +15,11 @@ A ROSA cluster has been created for your beforehand. You can run the Lab inside 
 | User      | Lab Guide |
 | ----------- | ----------- |
 |BenSchuddeboom|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-BenSchuddeboom&USERNAME=BenSchuddeboom)|
+|blues-man|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-blues-man&USERNAME=blues-man)|
 |darksideofpink|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-darksideofpink&USERNAME=darksideofpink)|
 |dingesje|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-dingesje&USERNAME=dingesje)|
 |eboonstra|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-eboonstra&USERNAME=eboonstra)|
+|ebruijn|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-ebruijn&USERNAME=ebruijn)|
 |eddymouthaan|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-eddymouthaan&USERNAME=eddymouthaan)|
 |gillespol|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-gillespol&USERNAME=gillespol)|
 |hennovermeulen|[Link](https://redhat-scholars.github.io/openshift-starter-guides/rhs-openshift-starter-guides/4.7/index.html?CLUSTER_SUBDOMAIN=apps.edsn.6d0b.p1.openshiftapps.com&PROJECT=workshop-hennovermeulen&USERNAME=hennovermeulen)|
