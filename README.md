@@ -11,6 +11,8 @@ Welcome to your ROSA Workshop prepared by Red Hat for EDSN!
 
 A ROSA cluster has been created for your beforehand. You can run the Lab inside this cluster with your GitHub user.
 
+https://console-openshift-console.apps.edsn.6d0b.p1.openshiftapps.com/
+
 
 | User      | Lab Guide |
 | ----------- | ----------- |
